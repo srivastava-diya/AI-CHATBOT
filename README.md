@@ -1,7 +1,7 @@
 ## AI Chatbot
 
 
-# A modern AI chatbot powered by **Gemini (Google AI)** and styled using the elegant **ChatScope UI Kit**.
+# A modern AI chatbot.
 
 
 **Live Demo:** [ai-chatbot-eight-omega-62.vercel.app](https://ai-chatbot-eight-omega-62.vercel.app/)
