@@ -65,7 +65,7 @@ function App() {
 
   return (
     <div className="chatpage-div">
-      <div style={{ position: "relative", height: "800px", width: "700px" }}>
+      <div style={{ position: "relative", height: "500px", width: "700px" }}>
         <MainContainer>
           <ChatContainer>
             <MessageList typingIndicator={typing ? <TypingIndicator content="typing..." /> : null}>
