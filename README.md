@@ -12,7 +12,7 @@
 **Frontend:** React + Vite
 
 
-**AI Model:** Gemini API (Google Generative AI)
+**AI Model:** Gemini-flash-2.5 (Google Generative AI)
 
 
 **UI Kit:** [ChatScope UI Kit](https://ui.shadcn.com/)
